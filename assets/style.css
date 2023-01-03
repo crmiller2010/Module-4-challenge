@@ -1,0 +1,66 @@
+body {
+ background-color: #227C70;
+}
+
+.countDown{
+    height: 75px;
+    width: 100px;
+    border:solid;
+    border-width: 10px;
+    border-color: #88A47C;
+    background-color: #E6E2C3;
+    margin-left:65%;
+    margin-top: 10%;
+
+}
+
+#quiz{
+    height: 500px;
+    width: 500px;
+    border:solid;
+    border-width: 10px;
+    border-color: #88A47C;
+    background-color: #E6E2C3;
+  margin-left: 35%;
+  
+  
+}
+
+#quizTitle{
+    text-align: center;
+    color: #1C315E;
+}
+#start{
+    color: #1C315E;
+    height: 75px;
+    width: 200px;
+    margin-left: 30%;
+    margin-top: 25%;
+
+}
+    
+
+#A1{
+    height: 75px;
+    width: 200px;   
+    margin-left: 10%;
+}
+#A2{
+    height: 75px;
+    width: 200px;
+}
+
+#A3{
+    height: 75px;
+    width: 200px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#A4{
+    height: 75px;
+    width: 200px;
+    margin-top: 5%;
+}
+.invisable {
+    visibility: hidden;
+}
